@@ -4,7 +4,7 @@ The course emphasized user experience and interface design, guiding us to create
 and user-centric designs.
 
 ## CalorieBites Concept
-CalorieBites is a front-end app prototype designed to make calorie tracking relatable and straightforward.
+CalorieBites is a front-end app prototype created using Android Studio designed to make calorie tracking relatable and straightforward.
 It converts steps into food calorie equivalents, offering an intuitive approach to health management. While
 it's currently a prototype, it showcases the potential for a comprehensive, user-friendly health app.
 
